@@ -3,6 +3,8 @@
 ## Project
 <li>A Todo list created using python and Django Framework</li>
 <li>Live project is deployed using Heroku</li>
+<br>
+> Live Site: https://todo-list-django-daveh.herokuapp.com/
 
 ## What I Learned
 <li>Setting up and creating Django applications</li>
